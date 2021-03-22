@@ -20,3 +20,6 @@ Your users should be able to:
 - Navigate the slider using either their mouse/trackpad or keyboard
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+
+## GitHub page
+Published at: https://betoggh51.github.io/Newbie-Coding-Bootcamp-Testimonial-Slider/
